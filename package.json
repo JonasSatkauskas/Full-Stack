@@ -1,0 +1,21 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "Backend",
+  "homepage": "https://github.com/JonasSatkauskas/Full-Stack#readme",
+  "bugs": {
+    "url": "https://github.com/JonasSatkauskas/Full-Stack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasSatkauskas/Full-Stack.git"
+  },
+  "license": "ISC",
+  "author": "Jonas S.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
